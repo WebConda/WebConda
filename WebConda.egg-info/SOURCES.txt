@@ -1,7 +1,0 @@
-setup.py
-WebConda/main.py
-WebConda.egg-info/PKG-INFO
-WebConda.egg-info/SOURCES.txt
-WebConda.egg-info/dependency_links.txt
-WebConda.egg-info/requires.txt
-WebConda.egg-info/top_level.txt
